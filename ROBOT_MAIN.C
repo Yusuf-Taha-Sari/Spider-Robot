@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Yusuf-Taha-Sari 
-Yusuf-Taha-Sari
-/
-Spider-Robot
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Spider-Robot/ROBOT_MAIN
-@Yusuf-Taha-Sari
-Yusuf-Taha-Sari ROBOT_MAIN
-Latest commit 777d60b now
- History
- 1 contributor
-377 lines (300 sloc)  10.7 KB
-
 #include <MKL25Z4.h>                    // Device header
 #include <stdio.h>
 #include <math.h>
@@ -406,18 +375,3 @@ void Delay(volatile unsigned int time_del) {
 		{
   }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Spider-Robot/ROBOT_MAIN at main · Yusuf-Taha-Sari/Spider-Robot 
